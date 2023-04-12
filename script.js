@@ -5,6 +5,6 @@ function getFormvalue() {
   const lastName = document.getElementById('lName').value;
 
   // Display the first and last name using alert()
-  alert(`First Name: ${firstName}\nLast Name: ${lastName}`);
+  alert(`First Name: ${fName}\nLast Name: ${lName}`);
 
 }
